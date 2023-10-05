@@ -1,5 +1,5 @@
 # signup1
-1.First, we create a basic HTML file for the signup page. 
+##1.First, we create a basic HTML file for the signup page. 
 
 Once we  have a GitHub account, we can create a new repository for your signup page:
 
