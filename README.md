@@ -24,4 +24,4 @@ git add .
 
 Once we've completed these steps, we signup page code will be uploaded to your GitHub repository.
 
-Now, we can access your signup page on GitHub by visiting https://github.com/your-username/your-repository-name.
+Now, we can access your signup page on GitHub.
